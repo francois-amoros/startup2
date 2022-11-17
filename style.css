@@ -15,11 +15,7 @@ body {
 	font-size: 18px;
     background-color: black;
 }
-h2, h3 {
- 	font-family: 'Staatliches', cursive;
- 	color: whitesmoke;
-    font-size: 20px;
-}
+
 h1 {
     font-family: 'Neutro';
      font-size: 26px;
@@ -28,6 +24,13 @@ h1 {
      background-clip: text;
      text-fill-color: transparent;
 }
+
+h2, h3 {
+ 	font-family: 'Staatliches', cursive;
+ 	color: whitesmoke;
+    font-size: 20px;
+}
+
 h4 {
     font-family: 'Neutro';
     font-size: 32px;
