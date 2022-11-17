@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Lora");
 
-@import url("components/container.css");
+@import url("container.css");
 
-@import url("components/avatar.css");
+@import url("avatar.css");
 
-@import url("components/button.css");
-@import url("components/banner.css");
-@import url("components/cards.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("cards.css");
 @import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
